@@ -1,52 +1,6 @@
 
 ---
 
-- title: MICCAI
-  year: 2019
-  id: miccai2019
-  link: http://www.miccai2019.org/
-  deadline: '2019-04-02 23:59:59'
-  timezone: US/Pacific
-  date: October 13 - October 17, 2019
-  place: Shenzhen, China
-  sub: CV
-  note: '<b>NOTE</b>: Mandatory intention-to-submit registration on March 19. More
-    info <a href="http://www.miccai2019.org/calls/call-for-papers/">here</a>.'
-
-- title: ECML/PKDD
-  year: 2019
-  id: ecmlpkdd19
-  link: https://ecmlpkdd2019.org/
-  deadline: '2019-04-05 23:59:59'
-  timezone: UTC-8
-  date: September 16-20, 2019
-  place: "W\xFCrzburg, Germany"
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 29, 2019. More info <a
-    href="https://ecmlpkdd2019.org/submissions/deadlines/">here</a>.'
-
-- title: ISMIR
-  year: 2019
-  id: ismir19
-  link: http://ismir2019.ewi.tudelft.nl/
-  deadline: '2019-04-05 23:59:59'
-  timezone: UTC-12
-  date: November 4-8, 2019
-  place: Delft, The Netherlands
-  sub: SP
-
-- title: MM
-  year: 2019
-  id: ACMMultimedia
-  link: https://www.acmmm.org/2019/
-  deadline: '2019-04-08 23:59:59'
-  timezone: UTC-12
-  date: October 21-25, 2019
-  place: Nice, France
-  sub: CV
-  note: '<b>NOTE</b>: Mandatory abstract submission deadline on April 1. More info
-    <a href="https://www.acmmm.org/2019/important-dates/">here</a>.'
-
 - title: BMVC
   year: 2019
   id: bmvc19
@@ -66,6 +20,8 @@
   date: November 3-7, 2019
   place: Hong Kong
   sub: NLP
+  note: '<b>NOTE</b>: Mandatory abstract submission deadline on May 15. More info
+    <a href="https://www.emnlp-ijcnlp2019.org/calls/papers/">here</a>.'
 
 - title: NeurIPS
   year: 2019
@@ -88,6 +44,16 @@
   place: Hong Kong
   sub: NLP
 
+- title: ICDM
+  year: 2019
+  id: icdm19
+  link: http://icdm2019.bigke.org/
+  deadline: '2019-06-05 23:59:59'
+  timezone: UTC-7
+  date: November 8-11, 2019
+  place: Beijing, China
+  sub: DM
+
 - title: 3DV
   year: 2019
   id: threedv19
@@ -107,6 +73,17 @@
   date: October 30 - November 1, 2019
   place: Osaka, Japan
   sub: RO
+
+- title: WACV
+  year: 2020
+  id: wacv20
+  link: http://wacv20.wacv.net/
+  deadline: '2019-07-26 23:59:59'
+  timezone: America/Los_Angeles
+  date: March 2-5, 2020
+  place: Snowmass village, Colorado, USA
+  sub: CV
+  note: '<b>NOTE</b>: First round submission deadline.'
 
 - title: AAAI
   year: 2019
@@ -311,3 +288,49 @@
   date: September 15-19, 2019
   place: Graz, Austria
   sub: SP
+
+- title: MICCAI
+  year: 2019
+  id: miccai2019
+  link: http://www.miccai2019.org/
+  deadline: '2019-04-02 23:59:59'
+  timezone: US/Pacific
+  date: October 13 - October 17, 2019
+  place: Shenzhen, China
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory intention-to-submit registration on March 19. More
+    info <a href="http://www.miccai2019.org/calls/call-for-papers/">here</a>.'
+
+- title: ECML/PKDD
+  year: 2019
+  id: ecmlpkdd19
+  link: https://ecmlpkdd2019.org/
+  deadline: '2019-04-05 23:59:59'
+  timezone: UTC-12
+  date: September 16-20, 2019
+  place: "W\xFCrzburg, Germany"
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on March 29, 2019. More info <a
+    href="https://ecmlpkdd2019.org/submissions/deadlines/">here</a>.'
+
+- title: ISMIR
+  year: 2019
+  id: ismir19
+  link: http://ismir2019.ewi.tudelft.nl/
+  deadline: '2019-04-05 23:59:59'
+  timezone: UTC-12
+  date: November 4-8, 2019
+  place: Delft, The Netherlands
+  sub: SP
+
+- title: MM
+  year: 2019
+  id: ACMMultimedia
+  link: https://www.acmmm.org/2019/
+  deadline: '2019-04-08 23:59:59'
+  timezone: UTC-12
+  date: October 21-25, 2019
+  place: Nice, France
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory abstract submission deadline on April 1. More info
+    <a href="https://www.acmmm.org/2019/important-dates/">here</a>.'
